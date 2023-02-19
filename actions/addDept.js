@@ -1,3 +1,6 @@
+const inquirer = require('inquirer');
+const fs = require('fs');
+
 import { viewDepts } from './viewDepts';
 
 export default function addDept () {
