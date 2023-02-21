@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-import { viewDepts } from './viewDepts';
+import viewDepts from './viewDepts';
 
 export default function addDept () {
     const sqlQuery = fs.readFileSync('./queries/addDept.sql').toString();

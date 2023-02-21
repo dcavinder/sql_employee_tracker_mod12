@@ -1,4 +1,4 @@
-import { emplTracker } from '../index.js'
+import emplTracker from '../index.js'
 
 export default function viewDepts() {
     const sqlQuery = fs.readFileSync('./queries/viewDepts.sql').toString();
