@@ -125,7 +125,7 @@ async function addRole () {
                 name: 'title'
             },
             {
-                message: 'Please enter a salaery',
+                message: 'Please enter a salary',
                 type: 'input',
                 name: 'salary'
             },
