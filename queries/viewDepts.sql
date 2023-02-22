@@ -1,2 +1,2 @@
 SELECT *
-FROM departments;
+FROM department;

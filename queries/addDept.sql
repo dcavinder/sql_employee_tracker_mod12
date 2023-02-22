@@ -1,2 +1,2 @@
-INSERT INTO departments (name)
+INSERT INTO department (dept_name)
 VALUES (?);
