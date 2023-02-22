@@ -1,7 +1,7 @@
 # sql_employee_tracker_mod12#
 
 ## Demo
-![](https://github.com/dcavinder/sql_employee_tracker_mod12/assets/demo/employeeTracker.gif)
+![](https://github.com/dcavinder/sql_employee_tracker_mod12/blob/main/assets/demo/employeeTracker.gif)
 
 ## Description
 The sql employee tracker is a cli application that allows the user to add, update, and view all employees, departments, and roles. 
